@@ -1,0 +1,501 @@
+FEEDBACK_TEXT,FEEDBACK_PAGE,FEEDBACK_QUESTION,USER_TYPE
+I had trouble finding the information I needed.,additionalInformation,Was the information on the page clear?,Agent
+Instructions were clear and helpful.,incomeReported,How easy was the page to navigate?,Assister
+I had trouble finding the information I needed.,primarycontactInfo,Was there any difficulty in completing the task?,Assister
+It was confusing and difficult to understand.,EligibilityResult,Was there any difficulty in completing the task?,Assister
+"Not user-friendly, hard to navigate.",EligibilityResult,How satisfied are you with the overall experience on this page?,Assister
+Instructions were clear and helpful.,householdInfomration,How easy was the page to navigate?,Agent
+I experienced several errors and had to reload.,householdInfomration,Was the information on the page clear?,Individual
+It was confusing and difficult to understand.,householdInfomration,Was there any difficulty in completing the task?,Assister
+"Great user experience, everything was intuitive.",SignAndSubmit,How easy was the page to navigate?,Agent
+The process was smooth and easy to follow.,PersonalInfomration,Was there any difficulty in completing the task?,Assister
+Instructions were clear and helpful.,additionalInformation,Was the information on the page clear?,Agent
+I experienced several errors and had to reload.,SignAndSubmit,Was there any difficulty in completing the task?,Agent
+The interface was clunky and slow.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Agent
+"Great user experience, everything was intuitive.",EligibilityResult,How satisfied are you with the overall experience on this page?,Individual
+The interface was clunky and slow.,reviewEligibility,Was there any difficulty in completing the task?,Agent
+It was confusing and difficult to understand.,additionalInformation,How easy was the page to navigate?,Agent
+The process was smooth and easy to follow.,CareTakerRelationship,How easy was the page to navigate?,Individual
+Instructions were clear and helpful.,CurrentIncomeDetails,How easy was the page to navigate?,Individual
+Instructions were clear and helpful.,additionalInformation,Was there any difficulty in completing the task?,Agent
+"Not user-friendly, hard to navigate.",SignAndSubmit,How easy was the page to navigate?,Individual
+"Not user-friendly, hard to navigate.",primarycontactInfo,Was the information on the page clear?,Assister
+It was confusing and difficult to understand.,reviewEligibility,How satisfied are you with the overall experience on this page?,Assister
+It was confusing and difficult to understand.,additionalInformation,Was the information on the page clear?,Individual
+The process was smooth and easy to follow.,PersonalInfomration,How easy was the page to navigate?,Individual
+"Not user-friendly, hard to navigate.",householdInfomration,Was the information on the page clear?,Agent
+I experienced several errors and had to reload.,householdInfomration,How easy was the page to navigate?,Individual
+I experienced several errors and had to reload.,reviewEligibility,Was there any difficulty in completing the task?,Agent
+The process was smooth and easy to follow.,SignAndSubmit,Was the information on the page clear?,Assister
+I experienced several errors and had to reload.,householdInfomration,Was there any difficulty in completing the task?,Individual
+Very satisfied with the ease of use.,additionalInformation,Was there any difficulty in completing the task?,Agent
+I had trouble finding the information I needed.,CareTakerRelationship,Did you find all the information you needed?,Agent
+The process was smooth and easy to follow.,EligibilityResult,How easy was the page to navigate?,Assister
+The process was smooth and easy to follow.,EligibilityResult,How satisfied are you with the overall experience on this page?,Individual
+"The page loaded quickly, and the information was clear.",CurrentIncomeDetails,How easy was the page to navigate?,Assister
+"Great user experience, everything was intuitive.",incomeReported,How satisfied are you with the overall experience on this page?,Agent
+"Great user experience, everything was intuitive.",primarycontactInfo,How easy was the page to navigate?,Agent
+Very satisfied with the ease of use.,reviewEligibility,Was there any difficulty in completing the task?,Individual
+"Not user-friendly, hard to navigate.",CurrentIncomeDetails,Was the information on the page clear?,Agent
+It was confusing and difficult to understand.,incomeReported,Was the information on the page clear?,Individual
+It was confusing and difficult to understand.,SignAndSubmit,Did you find all the information you needed?,Assister
+The interface was clunky and slow.,PersonalInfomration,How satisfied are you with the overall experience on this page?,Individual
+Very satisfied with the ease of use.,PersonalInfomration,How satisfied are you with the overall experience on this page?,Individual
+The process was smooth and easy to follow.,primarycontactInfo,How satisfied are you with the overall experience on this page?,Agent
+Very satisfied with the ease of use.,householdInfomration,Was there any difficulty in completing the task?,Agent
+Very satisfied with the ease of use.,additionalInformation,How satisfied are you with the overall experience on this page?,Individual
+Very satisfied with the ease of use.,CurrentIncomeDetails,Was the information on the page clear?,Agent
+"Great user experience, everything was intuitive.",CurrentIncomeDetails,Was there any difficulty in completing the task?,Agent
+Very satisfied with the ease of use.,reviewEligibility,How easy was the page to navigate?,Agent
+I had trouble finding the information I needed.,reviewEligibility,How satisfied are you with the overall experience on this page?,Individual
+It was confusing and difficult to understand.,PersonalInfomration,How satisfied are you with the overall experience on this page?,Agent
+The interface was clunky and slow.,PersonalInfomration,How easy was the page to navigate?,Individual
+I had trouble finding the information I needed.,CareTakerRelationship,How satisfied are you with the overall experience on this page?,Agent
+The interface was clunky and slow.,CareTakerRelationship,How easy was the page to navigate?,Assister
+"The page loaded quickly, and the information was clear.",householdInfomration,Was there any difficulty in completing the task?,Agent
+The interface was clunky and slow.,CareTakerRelationship,Was the information on the page clear?,Agent
+It was confusing and difficult to understand.,additionalInformation,How easy was the page to navigate?,Individual
+It was confusing and difficult to understand.,additionalInformation,Did you find all the information you needed?,Individual
+Very satisfied with the ease of use.,CurrentIncomeDetails,How easy was the page to navigate?,Agent
+Instructions were clear and helpful.,EligibilityResult,How satisfied are you with the overall experience on this page?,Assister
+"The page loaded quickly, and the information was clear.",additionalInformation,Was there any difficulty in completing the task?,Agent
+The process was smooth and easy to follow.,incomeReported,Was there any difficulty in completing the task?,Agent
+I experienced several errors and had to reload.,PersonalInfomration,How easy was the page to navigate?,Assister
+The interface was clunky and slow.,reviewEligibility,Was the information on the page clear?,Individual
+Instructions were clear and helpful.,CareTakerRelationship,Did you find all the information you needed?,Agent
+Very satisfied with the ease of use.,CurrentIncomeDetails,Was there any difficulty in completing the task?,Individual
+"Great user experience, everything was intuitive.",primarycontactInfo,How satisfied are you with the overall experience on this page?,Individual
+The process was smooth and easy to follow.,reviewEligibility,How satisfied are you with the overall experience on this page?,Assister
+"Not user-friendly, hard to navigate.",incomeReported,Was the information on the page clear?,Assister
+Instructions were clear and helpful.,CareTakerRelationship,Was there any difficulty in completing the task?,Individual
+"Great user experience, everything was intuitive.",incomeReported,How easy was the page to navigate?,Agent
+"The page loaded quickly, and the information was clear.",PersonalInfomration,How satisfied are you with the overall experience on this page?,Individual
+Very satisfied with the ease of use.,PersonalInfomration,Was the information on the page clear?,Agent
+The process was smooth and easy to follow.,householdInfomration,Was there any difficulty in completing the task?,Agent
+The process was smooth and easy to follow.,CurrentIncomeDetails,Was there any difficulty in completing the task?,Assister
+The process was smooth and easy to follow.,reviewEligibility,Was there any difficulty in completing the task?,Agent
+"The page loaded quickly, and the information was clear.",SignAndSubmit,Was there any difficulty in completing the task?,Agent
+The interface was clunky and slow.,SignAndSubmit,Was there any difficulty in completing the task?,Individual
+"Not user-friendly, hard to navigate.",reviewEligibility,How satisfied are you with the overall experience on this page?,Assister
+"The page loaded quickly, and the information was clear.",primarycontactInfo,Was the information on the page clear?,Agent
+I experienced several errors and had to reload.,CurrentIncomeDetails,Was there any difficulty in completing the task?,Agent
+"Not user-friendly, hard to navigate.",incomeReported,Did you find all the information you needed?,Assister
+It was confusing and difficult to understand.,primarycontactInfo,Did you find all the information you needed?,Individual
+Very satisfied with the ease of use.,EligibilityResult,Was the information on the page clear?,Assister
+"The page loaded quickly, and the information was clear.",reviewEligibility,How easy was the page to navigate?,Assister
+"Great user experience, everything was intuitive.",incomeReported,How easy was the page to navigate?,Agent
+"Not user-friendly, hard to navigate.",SignAndSubmit,How easy was the page to navigate?,Agent
+I experienced several errors and had to reload.,additionalInformation,Did you find all the information you needed?,Individual
+It was confusing and difficult to understand.,householdInfomration,How easy was the page to navigate?,Agent
+The interface was clunky and slow.,SignAndSubmit,How satisfied are you with the overall experience on this page?,Agent
+"Great user experience, everything was intuitive.",CurrentIncomeDetails,Was there any difficulty in completing the task?,Assister
+"Not user-friendly, hard to navigate.",PersonalInfomration,Did you find all the information you needed?,Agent
+Very satisfied with the ease of use.,additionalInformation,Was the information on the page clear?,Individual
+"Great user experience, everything was intuitive.",householdInfomration,Was the information on the page clear?,Assister
+It was confusing and difficult to understand.,householdInfomration,Was there any difficulty in completing the task?,Individual
+"Great user experience, everything was intuitive.",EligibilityResult,Did you find all the information you needed?,Assister
+I had trouble finding the information I needed.,EligibilityResult,How easy was the page to navigate?,Agent
+Instructions were clear and helpful.,CareTakerRelationship,How easy was the page to navigate?,Assister
+The interface was clunky and slow.,SignAndSubmit,How satisfied are you with the overall experience on this page?,Assister
+It was confusing and difficult to understand.,SignAndSubmit,How satisfied are you with the overall experience on this page?,Agent
+"Great user experience, everything was intuitive.",SignAndSubmit,How easy was the page to navigate?,Agent
+Instructions were clear and helpful.,CareTakerRelationship,Was the information on the page clear?,Individual
+Instructions were clear and helpful.,primarycontactInfo,Was the information on the page clear?,Individual
+"Great user experience, everything was intuitive.",householdInfomration,How satisfied are you with the overall experience on this page?,Agent
+Very satisfied with the ease of use.,additionalInformation,Was there any difficulty in completing the task?,Agent
+I had trouble finding the information I needed.,CurrentIncomeDetails,How easy was the page to navigate?,Agent
+"The page loaded quickly, and the information was clear.",householdInfomration,How satisfied are you with the overall experience on this page?,Assister
+I had trouble finding the information I needed.,EligibilityResult,How satisfied are you with the overall experience on this page?,Assister
+"Great user experience, everything was intuitive.",incomeReported,How easy was the page to navigate?,Assister
+The interface was clunky and slow.,PersonalInfomration,How easy was the page to navigate?,Agent
+"The page loaded quickly, and the information was clear.",CareTakerRelationship,Was the information on the page clear?,Individual
+It was confusing and difficult to understand.,reviewEligibility,Was there any difficulty in completing the task?,Agent
+I had trouble finding the information I needed.,incomeReported,Was there any difficulty in completing the task?,Assister
+"Great user experience, everything was intuitive.",CurrentIncomeDetails,How easy was the page to navigate?,Assister
+I had trouble finding the information I needed.,SignAndSubmit,Did you find all the information you needed?,Agent
+"The page loaded quickly, and the information was clear.",EligibilityResult,How satisfied are you with the overall experience on this page?,Agent
+I experienced several errors and had to reload.,EligibilityResult,How satisfied are you with the overall experience on this page?,Assister
+"Not user-friendly, hard to navigate.",EligibilityResult,How easy was the page to navigate?,Assister
+I had trouble finding the information I needed.,SignAndSubmit,Did you find all the information you needed?,Assister
+It was confusing and difficult to understand.,reviewEligibility,Was the information on the page clear?,Agent
+It was confusing and difficult to understand.,CareTakerRelationship,How easy was the page to navigate?,Assister
+The process was smooth and easy to follow.,incomeReported,How easy was the page to navigate?,Assister
+I had trouble finding the information I needed.,SignAndSubmit,How satisfied are you with the overall experience on this page?,Individual
+"Not user-friendly, hard to navigate.",CurrentIncomeDetails,How easy was the page to navigate?,Agent
+Very satisfied with the ease of use.,CareTakerRelationship,How easy was the page to navigate?,Individual
+Instructions were clear and helpful.,CurrentIncomeDetails,How easy was the page to navigate?,Individual
+"Not user-friendly, hard to navigate.",CareTakerRelationship,How satisfied are you with the overall experience on this page?,Assister
+Instructions were clear and helpful.,reviewEligibility,Was the information on the page clear?,Agent
+Instructions were clear and helpful.,PersonalInfomration,Was the information on the page clear?,Assister
+I experienced several errors and had to reload.,CurrentIncomeDetails,How easy was the page to navigate?,Agent
+The process was smooth and easy to follow.,SignAndSubmit,How satisfied are you with the overall experience on this page?,Individual
+"Not user-friendly, hard to navigate.",CareTakerRelationship,Was the information on the page clear?,Agent
+"Not user-friendly, hard to navigate.",EligibilityResult,Was the information on the page clear?,Assister
+I experienced several errors and had to reload.,householdInfomration,Was the information on the page clear?,Assister
+I had trouble finding the information I needed.,EligibilityResult,How satisfied are you with the overall experience on this page?,Assister
+I had trouble finding the information I needed.,primarycontactInfo,How satisfied are you with the overall experience on this page?,Agent
+I had trouble finding the information I needed.,PersonalInfomration,How easy was the page to navigate?,Individual
+The interface was clunky and slow.,PersonalInfomration,Was there any difficulty in completing the task?,Individual
+Instructions were clear and helpful.,EligibilityResult,Was the information on the page clear?,Agent
+The interface was clunky and slow.,incomeReported,Was there any difficulty in completing the task?,Assister
+The process was smooth and easy to follow.,reviewEligibility,How satisfied are you with the overall experience on this page?,Individual
+I experienced several errors and had to reload.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Assister
+"Not user-friendly, hard to navigate.",SignAndSubmit,How satisfied are you with the overall experience on this page?,Agent
+Instructions were clear and helpful.,PersonalInfomration,Was there any difficulty in completing the task?,Assister
+The interface was clunky and slow.,EligibilityResult,How satisfied are you with the overall experience on this page?,Individual
+The interface was clunky and slow.,EligibilityResult,How easy was the page to navigate?,Individual
+"Great user experience, everything was intuitive.",reviewEligibility,How satisfied are you with the overall experience on this page?,Assister
+The interface was clunky and slow.,reviewEligibility,Did you find all the information you needed?,Agent
+Very satisfied with the ease of use.,additionalInformation,Was there any difficulty in completing the task?,Assister
+"Not user-friendly, hard to navigate.",additionalInformation,Did you find all the information you needed?,Agent
+Very satisfied with the ease of use.,incomeReported,How satisfied are you with the overall experience on this page?,Assister
+"Not user-friendly, hard to navigate.",incomeReported,How easy was the page to navigate?,Individual
+I experienced several errors and had to reload.,primarycontactInfo,Was the information on the page clear?,Agent
+"Not user-friendly, hard to navigate.",incomeReported,How satisfied are you with the overall experience on this page?,Agent
+Very satisfied with the ease of use.,CareTakerRelationship,How easy was the page to navigate?,Agent
+"Not user-friendly, hard to navigate.",reviewEligibility,Was there any difficulty in completing the task?,Individual
+I experienced several errors and had to reload.,SignAndSubmit,Did you find all the information you needed?,Assister
+I experienced several errors and had to reload.,CareTakerRelationship,Did you find all the information you needed?,Individual
+The process was smooth and easy to follow.,CurrentIncomeDetails,Did you find all the information you needed?,Agent
+"Not user-friendly, hard to navigate.",EligibilityResult,Was there any difficulty in completing the task?,Assister
+"Great user experience, everything was intuitive.",incomeReported,How easy was the page to navigate?,Individual
+I had trouble finding the information I needed.,EligibilityResult,Was there any difficulty in completing the task?,Agent
+It was confusing and difficult to understand.,PersonalInfomration,Did you find all the information you needed?,Agent
+I experienced several errors and had to reload.,primarycontactInfo,How satisfied are you with the overall experience on this page?,Individual
+"The page loaded quickly, and the information was clear.",PersonalInfomration,Was the information on the page clear?,Individual
+I had trouble finding the information I needed.,primarycontactInfo,Was there any difficulty in completing the task?,Individual
+Instructions were clear and helpful.,additionalInformation,Was there any difficulty in completing the task?,Agent
+"Not user-friendly, hard to navigate.",EligibilityResult,How easy was the page to navigate?,Individual
+Very satisfied with the ease of use.,primarycontactInfo,How easy was the page to navigate?,Agent
+It was confusing and difficult to understand.,householdInfomration,Was there any difficulty in completing the task?,Individual
+"The page loaded quickly, and the information was clear.",CareTakerRelationship,Did you find all the information you needed?,Agent
+I had trouble finding the information I needed.,primarycontactInfo,Was the information on the page clear?,Agent
+"Not user-friendly, hard to navigate.",primarycontactInfo,How easy was the page to navigate?,Assister
+The process was smooth and easy to follow.,CareTakerRelationship,Did you find all the information you needed?,Individual
+Instructions were clear and helpful.,EligibilityResult,How satisfied are you with the overall experience on this page?,Individual
+It was confusing and difficult to understand.,EligibilityResult,How easy was the page to navigate?,Agent
+"Great user experience, everything was intuitive.",CareTakerRelationship,Did you find all the information you needed?,Agent
+The process was smooth and easy to follow.,PersonalInfomration,Did you find all the information you needed?,Agent
+"The page loaded quickly, and the information was clear.",householdInfomration,Was the information on the page clear?,Assister
+It was confusing and difficult to understand.,SignAndSubmit,Was the information on the page clear?,Assister
+The process was smooth and easy to follow.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Agent
+Instructions were clear and helpful.,householdInfomration,Did you find all the information you needed?,Individual
+"Great user experience, everything was intuitive.",EligibilityResult,Did you find all the information you needed?,Individual
+The process was smooth and easy to follow.,SignAndSubmit,Was the information on the page clear?,Assister
+The interface was clunky and slow.,additionalInformation,How easy was the page to navigate?,Assister
+"Great user experience, everything was intuitive.",incomeReported,How easy was the page to navigate?,Agent
+"The page loaded quickly, and the information was clear.",primarycontactInfo,Was there any difficulty in completing the task?,Individual
+Instructions were clear and helpful.,CareTakerRelationship,Was the information on the page clear?,Agent
+"Not user-friendly, hard to navigate.",CareTakerRelationship,Was there any difficulty in completing the task?,Assister
+Very satisfied with the ease of use.,primarycontactInfo,Was the information on the page clear?,Individual
+Very satisfied with the ease of use.,incomeReported,How satisfied are you with the overall experience on this page?,Individual
+Very satisfied with the ease of use.,CurrentIncomeDetails,Did you find all the information you needed?,Assister
+It was confusing and difficult to understand.,incomeReported,How satisfied are you with the overall experience on this page?,Agent
+"The page loaded quickly, and the information was clear.",SignAndSubmit,Was the information on the page clear?,Agent
+Instructions were clear and helpful.,incomeReported,Did you find all the information you needed?,Individual
+"Great user experience, everything was intuitive.",SignAndSubmit,How easy was the page to navigate?,Assister
+It was confusing and difficult to understand.,incomeReported,How easy was the page to navigate?,Individual
+"The page loaded quickly, and the information was clear.",CurrentIncomeDetails,Was there any difficulty in completing the task?,Assister
+"Not user-friendly, hard to navigate.",CurrentIncomeDetails,Was the information on the page clear?,Agent
+The interface was clunky and slow.,EligibilityResult,Was the information on the page clear?,Assister
+Instructions were clear and helpful.,primarycontactInfo,How easy was the page to navigate?,Agent
+Very satisfied with the ease of use.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Assister
+The process was smooth and easy to follow.,SignAndSubmit,Did you find all the information you needed?,Individual
+Instructions were clear and helpful.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Agent
+I experienced several errors and had to reload.,EligibilityResult,How satisfied are you with the overall experience on this page?,Individual
+"The page loaded quickly, and the information was clear.",CareTakerRelationship,How easy was the page to navigate?,Individual
+I had trouble finding the information I needed.,SignAndSubmit,How easy was the page to navigate?,Agent
+"Not user-friendly, hard to navigate.",EligibilityResult,How easy was the page to navigate?,Agent
+The interface was clunky and slow.,PersonalInfomration,Was there any difficulty in completing the task?,Individual
+"Not user-friendly, hard to navigate.",PersonalInfomration,How satisfied are you with the overall experience on this page?,Individual
+Instructions were clear and helpful.,additionalInformation,Was the information on the page clear?,Individual
+I had trouble finding the information I needed.,incomeReported,Did you find all the information you needed?,Individual
+I experienced several errors and had to reload.,primarycontactInfo,Was there any difficulty in completing the task?,Agent
+"Great user experience, everything was intuitive.",reviewEligibility,Was the information on the page clear?,Agent
+The process was smooth and easy to follow.,householdInfomration,How satisfied are you with the overall experience on this page?,Individual
+I had trouble finding the information I needed.,EligibilityResult,How easy was the page to navigate?,Assister
+"The page loaded quickly, and the information was clear.",CareTakerRelationship,How satisfied are you with the overall experience on this page?,Assister
+Very satisfied with the ease of use.,householdInfomration,Did you find all the information you needed?,Agent
+I experienced several errors and had to reload.,CareTakerRelationship,Was there any difficulty in completing the task?,Individual
+The process was smooth and easy to follow.,householdInfomration,Was there any difficulty in completing the task?,Individual
+The interface was clunky and slow.,EligibilityResult,Did you find all the information you needed?,Agent
+Very satisfied with the ease of use.,reviewEligibility,Was the information on the page clear?,Assister
+Instructions were clear and helpful.,householdInfomration,Was the information on the page clear?,Assister
+I had trouble finding the information I needed.,EligibilityResult,Was there any difficulty in completing the task?,Assister
+The process was smooth and easy to follow.,CurrentIncomeDetails,Was there any difficulty in completing the task?,Agent
+It was confusing and difficult to understand.,reviewEligibility,How easy was the page to navigate?,Assister
+"Great user experience, everything was intuitive.",SignAndSubmit,Was the information on the page clear?,Agent
+"Great user experience, everything was intuitive.",CareTakerRelationship,Did you find all the information you needed?,Agent
+I experienced several errors and had to reload.,PersonalInfomration,Was the information on the page clear?,Individual
+The interface was clunky and slow.,incomeReported,How easy was the page to navigate?,Assister
+I experienced several errors and had to reload.,PersonalInfomration,Was there any difficulty in completing the task?,Agent
+It was confusing and difficult to understand.,reviewEligibility,Was there any difficulty in completing the task?,Assister
+"The page loaded quickly, and the information was clear.",SignAndSubmit,How easy was the page to navigate?,Assister
+The interface was clunky and slow.,CareTakerRelationship,Did you find all the information you needed?,Individual
+"Not user-friendly, hard to navigate.",SignAndSubmit,Was there any difficulty in completing the task?,Assister
+"The page loaded quickly, and the information was clear.",householdInfomration,How satisfied are you with the overall experience on this page?,Individual
+The interface was clunky and slow.,CareTakerRelationship,Was there any difficulty in completing the task?,Agent
+The interface was clunky and slow.,householdInfomration,How satisfied are you with the overall experience on this page?,Assister
+It was confusing and difficult to understand.,EligibilityResult,How easy was the page to navigate?,Agent
+Instructions were clear and helpful.,reviewEligibility,How easy was the page to navigate?,Assister
+It was confusing and difficult to understand.,EligibilityResult,Was there any difficulty in completing the task?,Agent
+The interface was clunky and slow.,additionalInformation,Was the information on the page clear?,Assister
+The process was smooth and easy to follow.,SignAndSubmit,How satisfied are you with the overall experience on this page?,Assister
+"The page loaded quickly, and the information was clear.",householdInfomration,Did you find all the information you needed?,Assister
+It was confusing and difficult to understand.,CurrentIncomeDetails,Was there any difficulty in completing the task?,Assister
+Instructions were clear and helpful.,EligibilityResult,Did you find all the information you needed?,Assister
+I had trouble finding the information I needed.,additionalInformation,Was there any difficulty in completing the task?,Assister
+I experienced several errors and had to reload.,primarycontactInfo,Was the information on the page clear?,Assister
+The interface was clunky and slow.,PersonalInfomration,Was the information on the page clear?,Assister
+"Not user-friendly, hard to navigate.",CareTakerRelationship,Was the information on the page clear?,Assister
+I had trouble finding the information I needed.,additionalInformation,Was the information on the page clear?,Agent
+"Great user experience, everything was intuitive.",reviewEligibility,How easy was the page to navigate?,Individual
+Very satisfied with the ease of use.,EligibilityResult,How easy was the page to navigate?,Assister
+Instructions were clear and helpful.,reviewEligibility,How satisfied are you with the overall experience on this page?,Individual
+"Not user-friendly, hard to navigate.",PersonalInfomration,Did you find all the information you needed?,Assister
+Very satisfied with the ease of use.,CurrentIncomeDetails,Was there any difficulty in completing the task?,Assister
+Instructions were clear and helpful.,SignAndSubmit,Was there any difficulty in completing the task?,Agent
+The process was smooth and easy to follow.,SignAndSubmit,How easy was the page to navigate?,Agent
+I experienced several errors and had to reload.,reviewEligibility,Was there any difficulty in completing the task?,Individual
+I had trouble finding the information I needed.,householdInfomration,How easy was the page to navigate?,Agent
+"The page loaded quickly, and the information was clear.",CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Agent
+Instructions were clear and helpful.,SignAndSubmit,Did you find all the information you needed?,Individual
+"The page loaded quickly, and the information was clear.",CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Agent
+I experienced several errors and had to reload.,additionalInformation,Was the information on the page clear?,Assister
+The interface was clunky and slow.,CurrentIncomeDetails,Was the information on the page clear?,Individual
+"Great user experience, everything was intuitive.",incomeReported,Was the information on the page clear?,Individual
+I had trouble finding the information I needed.,PersonalInfomration,How satisfied are you with the overall experience on this page?,Assister
+I experienced several errors and had to reload.,SignAndSubmit,Was there any difficulty in completing the task?,Agent
+I experienced several errors and had to reload.,CurrentIncomeDetails,Did you find all the information you needed?,Individual
+The process was smooth and easy to follow.,reviewEligibility,Was the information on the page clear?,Individual
+Very satisfied with the ease of use.,primarycontactInfo,Was the information on the page clear?,Assister
+"Great user experience, everything was intuitive.",incomeReported,Was the information on the page clear?,Assister
+I had trouble finding the information I needed.,incomeReported,Did you find all the information you needed?,Agent
+The interface was clunky and slow.,householdInfomration,Was the information on the page clear?,Individual
+The interface was clunky and slow.,CurrentIncomeDetails,Did you find all the information you needed?,Agent
+It was confusing and difficult to understand.,householdInfomration,Was the information on the page clear?,Agent
+I experienced several errors and had to reload.,householdInfomration,How satisfied are you with the overall experience on this page?,Assister
+Instructions were clear and helpful.,primarycontactInfo,How satisfied are you with the overall experience on this page?,Individual
+The process was smooth and easy to follow.,additionalInformation,Did you find all the information you needed?,Individual
+"Great user experience, everything was intuitive.",CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Individual
+The interface was clunky and slow.,EligibilityResult,Did you find all the information you needed?,Assister
+I had trouble finding the information I needed.,SignAndSubmit,How satisfied are you with the overall experience on this page?,Assister
+It was confusing and difficult to understand.,householdInfomration,How satisfied are you with the overall experience on this page?,Assister
+I had trouble finding the information I needed.,PersonalInfomration,Did you find all the information you needed?,Assister
+The process was smooth and easy to follow.,CareTakerRelationship,Was there any difficulty in completing the task?,Assister
+Instructions were clear and helpful.,PersonalInfomration,How satisfied are you with the overall experience on this page?,Individual
+It was confusing and difficult to understand.,primarycontactInfo,Was the information on the page clear?,Agent
+It was confusing and difficult to understand.,primarycontactInfo,Was there any difficulty in completing the task?,Individual
+Very satisfied with the ease of use.,reviewEligibility,Did you find all the information you needed?,Agent
+"Great user experience, everything was intuitive.",additionalInformation,Was there any difficulty in completing the task?,Assister
+It was confusing and difficult to understand.,SignAndSubmit,How easy was the page to navigate?,Agent
+Very satisfied with the ease of use.,householdInfomration,How easy was the page to navigate?,Individual
+Very satisfied with the ease of use.,PersonalInfomration,How satisfied are you with the overall experience on this page?,Individual
+The process was smooth and easy to follow.,CareTakerRelationship,How satisfied are you with the overall experience on this page?,Agent
+"The page loaded quickly, and the information was clear.",primarycontactInfo,Was the information on the page clear?,Assister
+I had trouble finding the information I needed.,primarycontactInfo,Was there any difficulty in completing the task?,Assister
+Instructions were clear and helpful.,additionalInformation,How easy was the page to navigate?,Individual
+"Not user-friendly, hard to navigate.",CareTakerRelationship,How satisfied are you with the overall experience on this page?,Agent
+I had trouble finding the information I needed.,CareTakerRelationship,Was there any difficulty in completing the task?,Assister
+It was confusing and difficult to understand.,additionalInformation,How satisfied are you with the overall experience on this page?,Assister
+Instructions were clear and helpful.,primarycontactInfo,How satisfied are you with the overall experience on this page?,Individual
+The interface was clunky and slow.,SignAndSubmit,How easy was the page to navigate?,Assister
+"The page loaded quickly, and the information was clear.",CurrentIncomeDetails,How easy was the page to navigate?,Agent
+The interface was clunky and slow.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Individual
+The interface was clunky and slow.,additionalInformation,Did you find all the information you needed?,Individual
+"Great user experience, everything was intuitive.",CareTakerRelationship,How satisfied are you with the overall experience on this page?,Agent
+I had trouble finding the information I needed.,householdInfomration,How satisfied are you with the overall experience on this page?,Individual
+"Not user-friendly, hard to navigate.",additionalInformation,Was the information on the page clear?,Assister
+The process was smooth and easy to follow.,SignAndSubmit,Was the information on the page clear?,Assister
+"Not user-friendly, hard to navigate.",additionalInformation,Was the information on the page clear?,Agent
+The interface was clunky and slow.,incomeReported,Did you find all the information you needed?,Assister
+It was confusing and difficult to understand.,PersonalInfomration,Did you find all the information you needed?,Agent
+"The page loaded quickly, and the information was clear.",CareTakerRelationship,How satisfied are you with the overall experience on this page?,Agent
+I experienced several errors and had to reload.,reviewEligibility,Was the information on the page clear?,Assister
+"Not user-friendly, hard to navigate.",reviewEligibility,Did you find all the information you needed?,Agent
+The interface was clunky and slow.,CareTakerRelationship,How easy was the page to navigate?,Assister
+"The page loaded quickly, and the information was clear.",SignAndSubmit,How satisfied are you with the overall experience on this page?,Individual
+Instructions were clear and helpful.,incomeReported,Was there any difficulty in completing the task?,Individual
+I had trouble finding the information I needed.,incomeReported,How satisfied are you with the overall experience on this page?,Agent
+Very satisfied with the ease of use.,primarycontactInfo,Was there any difficulty in completing the task?,Assister
+"Great user experience, everything was intuitive.",PersonalInfomration,Was the information on the page clear?,Assister
+"The page loaded quickly, and the information was clear.",CurrentIncomeDetails,Was there any difficulty in completing the task?,Individual
+It was confusing and difficult to understand.,EligibilityResult,Was the information on the page clear?,Individual
+It was confusing and difficult to understand.,SignAndSubmit,How easy was the page to navigate?,Assister
+"The page loaded quickly, and the information was clear.",EligibilityResult,Was there any difficulty in completing the task?,Agent
+It was confusing and difficult to understand.,EligibilityResult,How satisfied are you with the overall experience on this page?,Individual
+I had trouble finding the information I needed.,CareTakerRelationship,Was the information on the page clear?,Agent
+It was confusing and difficult to understand.,reviewEligibility,How satisfied are you with the overall experience on this page?,Agent
+"Not user-friendly, hard to navigate.",reviewEligibility,Did you find all the information you needed?,Individual
+Very satisfied with the ease of use.,CurrentIncomeDetails,Was the information on the page clear?,Agent
+It was confusing and difficult to understand.,CareTakerRelationship,Was there any difficulty in completing the task?,Agent
+Very satisfied with the ease of use.,EligibilityResult,Was the information on the page clear?,Assister
+The interface was clunky and slow.,householdInfomration,How satisfied are you with the overall experience on this page?,Agent
+The process was smooth and easy to follow.,reviewEligibility,How easy was the page to navigate?,Assister
+I had trouble finding the information I needed.,SignAndSubmit,Was the information on the page clear?,Individual
+The process was smooth and easy to follow.,SignAndSubmit,Was there any difficulty in completing the task?,Individual
+The interface was clunky and slow.,primarycontactInfo,Did you find all the information you needed?,Assister
+I had trouble finding the information I needed.,additionalInformation,How easy was the page to navigate?,Individual
+"The page loaded quickly, and the information was clear.",householdInfomration,Did you find all the information you needed?,Agent
+"The page loaded quickly, and the information was clear.",reviewEligibility,Was the information on the page clear?,Agent
+Very satisfied with the ease of use.,incomeReported,How satisfied are you with the overall experience on this page?,Agent
+The interface was clunky and slow.,reviewEligibility,How satisfied are you with the overall experience on this page?,Individual
+Very satisfied with the ease of use.,primarycontactInfo,Was there any difficulty in completing the task?,Agent
+"Great user experience, everything was intuitive.",SignAndSubmit,How satisfied are you with the overall experience on this page?,Individual
+It was confusing and difficult to understand.,EligibilityResult,How easy was the page to navigate?,Agent
+I experienced several errors and had to reload.,incomeReported,How satisfied are you with the overall experience on this page?,Assister
+"Great user experience, everything was intuitive.",CareTakerRelationship,Was there any difficulty in completing the task?,Individual
+It was confusing and difficult to understand.,PersonalInfomration,Was the information on the page clear?,Individual
+I had trouble finding the information I needed.,EligibilityResult,Was the information on the page clear?,Agent
+Very satisfied with the ease of use.,PersonalInfomration,How satisfied are you with the overall experience on this page?,Individual
+I had trouble finding the information I needed.,householdInfomration,Did you find all the information you needed?,Individual
+I had trouble finding the information I needed.,additionalInformation,Was the information on the page clear?,Assister
+It was confusing and difficult to understand.,incomeReported,How satisfied are you with the overall experience on this page?,Assister
+The interface was clunky and slow.,CurrentIncomeDetails,Was there any difficulty in completing the task?,Agent
+It was confusing and difficult to understand.,incomeReported,How satisfied are you with the overall experience on this page?,Assister
+Instructions were clear and helpful.,reviewEligibility,Was the information on the page clear?,Agent
+"The page loaded quickly, and the information was clear.",SignAndSubmit,Was there any difficulty in completing the task?,Agent
+"The page loaded quickly, and the information was clear.",reviewEligibility,How satisfied are you with the overall experience on this page?,Agent
+"Great user experience, everything was intuitive.",reviewEligibility,How easy was the page to navigate?,Individual
+"The page loaded quickly, and the information was clear.",householdInfomration,Was there any difficulty in completing the task?,Assister
+It was confusing and difficult to understand.,EligibilityResult,How easy was the page to navigate?,Agent
+"Not user-friendly, hard to navigate.",CurrentIncomeDetails,Did you find all the information you needed?,Assister
+Very satisfied with the ease of use.,CurrentIncomeDetails,Was there any difficulty in completing the task?,Agent
+It was confusing and difficult to understand.,reviewEligibility,How easy was the page to navigate?,Assister
+It was confusing and difficult to understand.,PersonalInfomration,Was the information on the page clear?,Assister
+I experienced several errors and had to reload.,householdInfomration,Was the information on the page clear?,Agent
+Very satisfied with the ease of use.,reviewEligibility,Did you find all the information you needed?,Individual
+Instructions were clear and helpful.,additionalInformation,Was there any difficulty in completing the task?,Assister
+"The page loaded quickly, and the information was clear.",SignAndSubmit,Was there any difficulty in completing the task?,Individual
+Very satisfied with the ease of use.,EligibilityResult,Was there any difficulty in completing the task?,Individual
+"The page loaded quickly, and the information was clear.",CareTakerRelationship,Did you find all the information you needed?,Agent
+"Great user experience, everything was intuitive.",additionalInformation,Was there any difficulty in completing the task?,Agent
+Very satisfied with the ease of use.,PersonalInfomration,Was the information on the page clear?,Agent
+"The page loaded quickly, and the information was clear.",incomeReported,How easy was the page to navigate?,Assister
+Instructions were clear and helpful.,incomeReported,Was the information on the page clear?,Agent
+The process was smooth and easy to follow.,additionalInformation,Was the information on the page clear?,Agent
+I had trouble finding the information I needed.,reviewEligibility,How easy was the page to navigate?,Assister
+I had trouble finding the information I needed.,CareTakerRelationship,Was the information on the page clear?,Assister
+Instructions were clear and helpful.,primarycontactInfo,Did you find all the information you needed?,Agent
+I experienced several errors and had to reload.,primarycontactInfo,How easy was the page to navigate?,Agent
+The process was smooth and easy to follow.,PersonalInfomration,Was the information on the page clear?,Agent
+"Great user experience, everything was intuitive.",reviewEligibility,How satisfied are you with the overall experience on this page?,Agent
+Instructions were clear and helpful.,CurrentIncomeDetails,Was the information on the page clear?,Individual
+I had trouble finding the information I needed.,CurrentIncomeDetails,Did you find all the information you needed?,Individual
+I had trouble finding the information I needed.,EligibilityResult,Was there any difficulty in completing the task?,Agent
+I had trouble finding the information I needed.,CareTakerRelationship,Was the information on the page clear?,Individual
+The interface was clunky and slow.,CareTakerRelationship,Was there any difficulty in completing the task?,Assister
+Instructions were clear and helpful.,incomeReported,How satisfied are you with the overall experience on this page?,Individual
+It was confusing and difficult to understand.,householdInfomration,Was the information on the page clear?,Individual
+"Great user experience, everything was intuitive.",PersonalInfomration,How easy was the page to navigate?,Agent
+I had trouble finding the information I needed.,primarycontactInfo,Was there any difficulty in completing the task?,Individual
+"The page loaded quickly, and the information was clear.",PersonalInfomration,How satisfied are you with the overall experience on this page?,Individual
+Instructions were clear and helpful.,CurrentIncomeDetails,How easy was the page to navigate?,Individual
+The interface was clunky and slow.,CurrentIncomeDetails,How easy was the page to navigate?,Individual
+Instructions were clear and helpful.,additionalInformation,How easy was the page to navigate?,Assister
+"Great user experience, everything was intuitive.",EligibilityResult,How easy was the page to navigate?,Agent
+The interface was clunky and slow.,CareTakerRelationship,Was the information on the page clear?,Agent
+"Great user experience, everything was intuitive.",SignAndSubmit,Was the information on the page clear?,Assister
+Instructions were clear and helpful.,PersonalInfomration,Was the information on the page clear?,Individual
+It was confusing and difficult to understand.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Assister
+"Great user experience, everything was intuitive.",householdInfomration,How satisfied are you with the overall experience on this page?,Individual
+The interface was clunky and slow.,incomeReported,How satisfied are you with the overall experience on this page?,Assister
+The interface was clunky and slow.,primarycontactInfo,Did you find all the information you needed?,Agent
+"Great user experience, everything was intuitive.",EligibilityResult,How satisfied are you with the overall experience on this page?,Agent
+"Not user-friendly, hard to navigate.",householdInfomration,Was the information on the page clear?,Agent
+Instructions were clear and helpful.,EligibilityResult,Was the information on the page clear?,Individual
+"Not user-friendly, hard to navigate.",additionalInformation,Did you find all the information you needed?,Individual
+I experienced several errors and had to reload.,SignAndSubmit,Did you find all the information you needed?,Assister
+Instructions were clear and helpful.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Assister
+"Great user experience, everything was intuitive.",incomeReported,Was there any difficulty in completing the task?,Agent
+The process was smooth and easy to follow.,householdInfomration,Did you find all the information you needed?,Individual
+"Great user experience, everything was intuitive.",EligibilityResult,How easy was the page to navigate?,Assister
+"Not user-friendly, hard to navigate.",CareTakerRelationship,Was the information on the page clear?,Individual
+It was confusing and difficult to understand.,additionalInformation,How easy was the page to navigate?,Individual
+"Great user experience, everything was intuitive.",CareTakerRelationship,Was the information on the page clear?,Agent
+"Great user experience, everything was intuitive.",incomeReported,Was the information on the page clear?,Agent
+It was confusing and difficult to understand.,householdInfomration,Did you find all the information you needed?,Individual
+"Great user experience, everything was intuitive.",additionalInformation,Did you find all the information you needed?,Individual
+I had trouble finding the information I needed.,householdInfomration,How easy was the page to navigate?,Individual
+The process was smooth and easy to follow.,CurrentIncomeDetails,Was the information on the page clear?,Individual
+"The page loaded quickly, and the information was clear.",reviewEligibility,How easy was the page to navigate?,Agent
+The process was smooth and easy to follow.,additionalInformation,Was there any difficulty in completing the task?,Assister
+"Great user experience, everything was intuitive.",CareTakerRelationship,How easy was the page to navigate?,Agent
+I had trouble finding the information I needed.,incomeReported,How satisfied are you with the overall experience on this page?,Assister
+Instructions were clear and helpful.,SignAndSubmit,How easy was the page to navigate?,Individual
+"Great user experience, everything was intuitive.",CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Assister
+"Not user-friendly, hard to navigate.",reviewEligibility,How satisfied are you with the overall experience on this page?,Agent
+I had trouble finding the information I needed.,SignAndSubmit,How satisfied are you with the overall experience on this page?,Agent
+It was confusing and difficult to understand.,primarycontactInfo,Was there any difficulty in completing the task?,Individual
+I had trouble finding the information I needed.,CurrentIncomeDetails,How easy was the page to navigate?,Agent
+It was confusing and difficult to understand.,incomeReported,How easy was the page to navigate?,Individual
+I experienced several errors and had to reload.,EligibilityResult,Was there any difficulty in completing the task?,Agent
+"The page loaded quickly, and the information was clear.",additionalInformation,Was the information on the page clear?,Agent
+Very satisfied with the ease of use.,householdInfomration,Did you find all the information you needed?,Individual
+I had trouble finding the information I needed.,incomeReported,How easy was the page to navigate?,Assister
+The interface was clunky and slow.,additionalInformation,Did you find all the information you needed?,Agent
+"Not user-friendly, hard to navigate.",SignAndSubmit,Was there any difficulty in completing the task?,Assister
+"Great user experience, everything was intuitive.",householdInfomration,Was the information on the page clear?,Agent
+"Not user-friendly, hard to navigate.",PersonalInfomration,Was the information on the page clear?,Agent
+The process was smooth and easy to follow.,CareTakerRelationship,Was the information on the page clear?,Agent
+Very satisfied with the ease of use.,primarycontactInfo,Was there any difficulty in completing the task?,Agent
+The process was smooth and easy to follow.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Assister
+I experienced several errors and had to reload.,incomeReported,How satisfied are you with the overall experience on this page?,Assister
+Very satisfied with the ease of use.,primarycontactInfo,Did you find all the information you needed?,Agent
+Very satisfied with the ease of use.,EligibilityResult,How satisfied are you with the overall experience on this page?,Agent
+The process was smooth and easy to follow.,additionalInformation,How satisfied are you with the overall experience on this page?,Assister
+It was confusing and difficult to understand.,additionalInformation,Was the information on the page clear?,Individual
+The process was smooth and easy to follow.,incomeReported,Was the information on the page clear?,Individual
+"Not user-friendly, hard to navigate.",reviewEligibility,Did you find all the information you needed?,Assister
+It was confusing and difficult to understand.,reviewEligibility,How easy was the page to navigate?,Agent
+"Not user-friendly, hard to navigate.",PersonalInfomration,Did you find all the information you needed?,Agent
+I experienced several errors and had to reload.,CareTakerRelationship,Did you find all the information you needed?,Individual
+"Great user experience, everything was intuitive.",householdInfomration,Was there any difficulty in completing the task?,Individual
+Instructions were clear and helpful.,EligibilityResult,Was there any difficulty in completing the task?,Assister
+It was confusing and difficult to understand.,primarycontactInfo,Did you find all the information you needed?,Individual
+I experienced several errors and had to reload.,reviewEligibility,Did you find all the information you needed?,Assister
+The interface was clunky and slow.,PersonalInfomration,Did you find all the information you needed?,Individual
+I experienced several errors and had to reload.,PersonalInfomration,How satisfied are you with the overall experience on this page?,Individual
+The process was smooth and easy to follow.,incomeReported,Was there any difficulty in completing the task?,Individual
+The process was smooth and easy to follow.,EligibilityResult,Did you find all the information you needed?,Agent
+Instructions were clear and helpful.,SignAndSubmit,Was the information on the page clear?,Agent
+I experienced several errors and had to reload.,householdInfomration,Was the information on the page clear?,Agent
+"The page loaded quickly, and the information was clear.",CareTakerRelationship,How satisfied are you with the overall experience on this page?,Individual
+"Great user experience, everything was intuitive.",CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Assister
+The process was smooth and easy to follow.,incomeReported,How easy was the page to navigate?,Assister
+Instructions were clear and helpful.,householdInfomration,How easy was the page to navigate?,Assister
+"Great user experience, everything was intuitive.",CurrentIncomeDetails,How easy was the page to navigate?,Assister
+I experienced several errors and had to reload.,CurrentIncomeDetails,How satisfied are you with the overall experience on this page?,Agent
+I experienced several errors and had to reload.,EligibilityResult,How satisfied are you with the overall experience on this page?,Agent
+Very satisfied with the ease of use.,EligibilityResult,How satisfied are you with the overall experience on this page?,Individual
+Instructions were clear and helpful.,primarycontactInfo,Was the information on the page clear?,Individual
+The process was smooth and easy to follow.,PersonalInfomration,How satisfied are you with the overall experience on this page?,Assister
+"The page loaded quickly, and the information was clear.",householdInfomration,Was the information on the page clear?,Agent
+I experienced several errors and had to reload.,incomeReported,How easy was the page to navigate?,Assister
+"The page loaded quickly, and the information was clear.",additionalInformation,How easy was the page to navigate?,Individual
+I experienced several errors and had to reload.,incomeReported,How easy was the page to navigate?,Individual
+The process was smooth and easy to follow.,primarycontactInfo,Did you find all the information you needed?,Assister
+"Great user experience, everything was intuitive.",CareTakerRelationship,Did you find all the information you needed?,Individual
+I had trouble finding the information I needed.,PersonalInfomration,Was there any difficulty in completing the task?,Assister
+"Great user experience, everything was intuitive.",additionalInformation,Was there any difficulty in completing the task?,Agent
+I experienced several errors and had to reload.,reviewEligibility,Was there any difficulty in completing the task?,Assister
+"Not user-friendly, hard to navigate.",CareTakerRelationship,Did you find all the information you needed?,Agent
+I had trouble finding the information I needed.,EligibilityResult,Did you find all the information you needed?,Agent
+I had trouble finding the information I needed.,CurrentIncomeDetails,Was there any difficulty in completing the task?,Individual
+"The page loaded quickly, and the information was clear.",reviewEligibility,Was there any difficulty in completing the task?,Individual
+Instructions were clear and helpful.,incomeReported,How satisfied are you with the overall experience on this page?,Individual
+"The page loaded quickly, and the information was clear.",incomeReported,Was there any difficulty in completing the task?,Assister
+"The page loaded quickly, and the information was clear.",EligibilityResult,How satisfied are you with the overall experience on this page?,Assister
+"Not user-friendly, hard to navigate.",primarycontactInfo,Was the information on the page clear?,Individual
+"Great user experience, everything was intuitive.",householdInfomration,Did you find all the information you needed?,Assister
+"Great user experience, everything was intuitive.",reviewEligibility,Was there any difficulty in completing the task?,Individual
+The interface was clunky and slow.,reviewEligibility,Did you find all the information you needed?,Assister
+I experienced several errors and had to reload.,SignAndSubmit,Did you find all the information you needed?,Agent
+"Not user-friendly, hard to navigate.",CareTakerRelationship,Did you find all the information you needed?,Agent
+The interface was clunky and slow.,PersonalInfomration,Was the information on the page clear?,Individual
+The process was smooth and easy to follow.,CareTakerRelationship,How easy was the page to navigate?,Assister
+I experienced several errors and had to reload.,householdInfomration,Was there any difficulty in completing the task?,Assister
+I experienced several errors and had to reload.,incomeReported,How easy was the page to navigate?,Agent
+Very satisfied with the ease of use.,incomeReported,How easy was the page to navigate?,Agent
+Very satisfied with the ease of use.,incomeReported,How easy was the page to navigate?,Individual
+It was confusing and difficult to understand.,SignAndSubmit,Did you find all the information you needed?,Agent
