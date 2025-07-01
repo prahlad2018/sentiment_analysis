@@ -6,7 +6,7 @@ with open("C:/Users/ishit/OneDrive/Documents/Python/input_feedback_50.json", "r"
     input_data = json.load(f)
 
 # URL of your running Flask API
-url = "http://localhost:5000/predict"
+url = "http://127.0.0.1:5001/predict"
 
 # Send POST request
 response = requests.post(url, json=input_data)

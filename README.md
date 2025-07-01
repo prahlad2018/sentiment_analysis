@@ -74,3 +74,5 @@ Step	Action
 	5–6	Add optional README and .gitignore
 
 https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english/resolve/714eb0f/config.json
+
+https://drive.google.com/file/d/1I7EEB6XjxeX46odC-XacOAZBzf1D1GaG/view?usp=drive_link
