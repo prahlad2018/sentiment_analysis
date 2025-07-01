@@ -73,3 +73,4 @@ Step	Action
 	4	Connect and push to GitHub
 	5–6	Add optional README and .gitignore
 
+https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english/resolve/714eb0f/config.json
