@@ -1,9 +1,9 @@
 FEEDBACK_TEXT,FEEDBACK_PAGE,FEEDBACK_QUESTION,USER_TYPE
 I had trouble finding the information I needed.,additionalInformation,Was the information on the page clear?,Agent
 Instructions were clear and helpful.,incomeReported,How easy was the page to navigate?,Assister
-I had trouble finding the information I needed.,primarycontactInfo,Was there any difficulty in completing the task?,Assister
+This is bad but for now this would be okay.,primarycontactInfo,Was there any difficulty in completing the task?,Assister
 It was confusing and difficult to understand.,EligibilityResult,Was there any difficulty in completing the task?,Assister
-"Not user-friendly, hard to navigate.",EligibilityResult,How satisfied are you with the overall experience on this page?,Assister
+This is not bad not good,EligibilityResult,How satisfied are you with the overall experience on this page?,Assister
 Instructions were clear and helpful.,householdInfomration,How easy was the page to navigate?,Agent
 I experienced several errors and had to reload.,householdInfomration,Was the information on the page clear?,Individual
 It was confusing and difficult to understand.,householdInfomration,Was there any difficulty in completing the task?,Assister
@@ -499,3 +499,4 @@ I experienced several errors and had to reload.,incomeReported,How easy was the 
 Very satisfied with the ease of use.,incomeReported,How easy was the page to navigate?,Agent
 Very satisfied with the ease of use.,incomeReported,How easy was the page to navigate?,Individual
 It was confusing and difficult to understand.,SignAndSubmit,Did you find all the information you needed?,Agent
+Its neutral,SignAndSubmit,Did you find all the information you needed?,Agent

@@ -18,7 +18,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Step 2: Load and Prepare Model
-original_df = pd.read_csv('C:/Users/ishit/OneDrive/Documents/Python/Office-Efficiency/user_feedback_dataset_corrected.csv')
+original_df = pd.read_csv('C:/Users/psing100/Development/office-efficiency/user_feedback_dataset_corrected.csv')
 
 # Preprocess Function
 def preprocess(text):
@@ -33,16 +33,25 @@ original_df['clean_text'] = original_df['FEEDBACK_TEXT'].apply(preprocess)
 
 # Label with VADER
 analyzer = SentimentIntensityAnalyzer()
+analyzer.lexicon.update({
+    "clunky": -2.0,
+    "slow": -1.5
+})
+
 def get_sentiment(text):
     scores = analyzer.polarity_scores(text)
+    neg, neu, pos, compound = scores['neg'], scores['neu'], scores['pos'], scores['compound']
+    if abs(pos - neg) < 0.1 and compound < 0.2 and compound > -0.2:
+        return 'Neutral', scores
     if scores['compound'] >= 0.05:
-        return 'Positive'
+        return 'Positive', scores
     elif scores['compound'] <= -0.05:
-        return 'Negative'
+        return 'Negative', scores
     else:
-        return 'Neutral'
+        return 'Neutral', scores
 
-original_df['sentiment'] = original_df['clean_text'].apply(get_sentiment)
+# original_df['sentiment'] = original_df['clean_text'].apply(get_sentiment)
+original_df[['sentiment', 'scores']] = original_df['clean_text'].apply(lambda x: pd.Series( get_sentiment(x)))
 
 # Train Model
 vectorizer = TfidfVectorizer(max_features=5000)

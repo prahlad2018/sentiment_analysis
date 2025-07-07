@@ -11,7 +11,7 @@ from transformers import pipeline
 
 # Step 3: Load Data
 # Replace with your CSV file path
-df = pd.read_csv('/content/sample_data/user_feedback_dataset_corrected.csv')
+df = pd.read_csv('user_feedback_dataset_corrected.csv')
 
 # Step 4: Hugging Face Model (Pre-trained Sentiment Analysis)
 sentiment_pipeline = pipeline("sentiment-analysis")
