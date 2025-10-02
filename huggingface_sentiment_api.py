@@ -14,7 +14,7 @@ import certifi
 model_name = "distilbert-base-uncased-finetuned-sst-2-english"
 
 
-local_model_path = r"C:/Users/psing100/Development/office-efficiency/model"
+local_model_path = r"C:/Users/psing100/Development/sentiment_analysis/model"
 
 model = AutoModelForSequenceClassification.from_pretrained(local_model_path, local_files_only=True)
 tokenizer = AutoTokenizer.from_pretrained(local_model_path, local_files_only=True)

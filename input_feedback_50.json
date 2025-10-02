@@ -14,7 +14,31 @@
   }
     ,
   {
-    "id": 3,
+    "id": 4,
     "feedback_text": "This is not bad not good"
   }
+    ,
+  {
+    "id": 5,
+    "feedback_text": "The page layout is good but it loads very slow, a feature to add your name would have been good!"
+  },
+    {
+    "id": 6,
+    "feedback_text": "The website has an average design and includes the basic features you'd expect."
+  }
+ ,
+    {
+    "id": 7,
+    "feedback_text": "this is good but the ui is bad, overall this willl do"
+  } ,
+    {
+    "id": 8,
+    "feedback_text": "Undecided."
+  } 
+  ,
+    {
+    "id": 9,
+    "feedback_text": "The screen looks too overwheleming."
+  } 
+  
 ]

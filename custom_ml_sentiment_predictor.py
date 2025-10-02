@@ -22,7 +22,7 @@ nltk.download('wordnet')
 
 # Step 3: Load Data
 # Replace with your CSV file path
-df = pd.read_csv('C:/Users/psing100/Development/office-efficiency/user_feedback_dataset_corrected.csv')
+df = pd.read_csv('C:/Users/psing100/Development/sentiment_analysis/user_feedback_dataset_corrected.csv')
 
 # Step 4: Text Preprocessing
 def preprocess(text):
@@ -118,6 +118,6 @@ print("Custom ML Model Classification Report:")
 print(classification_report(y_test, y_pred))
 
 # Save results
-df.to_csv('C:/Users/psing100/Development/office-efficiency/custom_ml_sentiment_analysis_results.csv', index=False)
+df.to_csv('C:/Users/psing100/Development/sentiment_analysis/custom_ml_sentiment_analysis_results.csv', index=False)
 
 print("Analysis complete. Results saved to 'custom_ml_sentiment_analysis_results.csv'.")

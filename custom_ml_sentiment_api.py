@@ -18,7 +18,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Step 2: Load and Prepare Model
-original_df = pd.read_csv('C:/Users/psing100/Development/office-efficiency/user_feedback_dataset_corrected.csv')
+original_df = pd.read_csv('C:/Users/psing100/Development/sentiment_analysis/user_feedback_dataset_corrected.csv')
 
 # Preprocess Function
 def preprocess(text):

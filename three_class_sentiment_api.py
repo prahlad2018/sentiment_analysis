@@ -1,7 +1,7 @@
 
 # from transformers import pipeline
 
-# sentiment = pipeline("sentiment-analysis", model="C:/Users/psing100/Development/office-efficiency/model_twitter/fine-tuned-twitter-roberta", tokenizer="C:/Users/psing100/Development/office-efficiency/model_twitter/fine-tuned-twitter-roberta")
+# sentiment = pipeline("sentiment-analysis", model="C:/Users/psing100/Development/sentiment_analysis/model_twitter/fine-tuned-twitter-roberta", tokenizer="C:/Users/psing100/Development/sentiment_analysis/model_twitter/fine-tuned-twitter-roberta")
 # print(sentiment("The service was okay, not great but not bad."))
 
 from flask import Flask, request, jsonify
@@ -13,8 +13,8 @@ app = Flask(__name__)
 # Load the sentiment analysis pipeline
 sentiment_pipeline = pipeline(
     "sentiment-analysis",
-    model="C:/Users/psing100/Development/office-efficiency/model_twitter/fine-tuned-twitter-roberta",
-    tokenizer="C:/Users/psing100/Development/office-efficiency/model_twitter/fine-tuned-twitter-roberta"
+    model="C:/Users/psing100/Development/sentiment_analysis/model_twitter/fine-tuned-twitter-roberta",
+    tokenizer="C:/Users/psing100/Development/sentiment_analysis/model_twitter/fine-tuned-twitter-roberta"
 )
 
 # Map model output labels to human-readable sentiment
@@ -37,14 +37,19 @@ def predict_sentiment():
     # Construct response
     response = []
     for record, result in zip(records, results):
+        feedback_text = record["feedback_text"]
+        predicted_sentiment = label_map.get(result["label"], "unknown")
+        print(f"Feedback Text: {feedback_text}, Predicted Sentiment: {predicted_sentiment}")
+
         response.append({
             "id": record["id"],
-            "feedback_text": record["feedback_text"],
-            "predicted_sentiment": label_map.get(result["label"], "unknown"),
-            "score": result["score"]
+            # "feedback_text": record["feedback_text"],
+            "predicted_sentiment": predicted_sentiment
+            # ,
+            # "score": result["score"]
         })
 
     return jsonify(response)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5001)

@@ -14,10 +14,10 @@ import pandas as pd
 #     "LABEL_2": "Positive"
 # }
 
-df = pd.read_csv("C:/Users/psing100/Development/office-efficiency/model_twitter/sentiment_data.csv")
+df = pd.read_csv("C:/Users/psing100/Development/sentiment_analysis/model_twitter/sentiment_data.csv")
 dataset = Dataset.from_pandas(df)
 
-model_path = "C:/Users/psing100/Development/office-efficiency/model_twitter"
+model_path = "C:/Users/psing100/Development/sentiment_analysis/model_twitter"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels=3)
 
@@ -34,13 +34,13 @@ dataset = dataset.map(tokenize, batched=True)
 
 # Training arguments
 training_args = TrainingArguments(
-    output_dir="C:/Users/psing100/Development/office-efficiency/model_twitter/results",
+    output_dir="C:/Users/psing100/Development/sentiment_analysis/model_twitter/results",
     # evaluation_strategy="epoch",
     per_device_train_batch_size=8,
     num_train_epochs=3,
     save_steps=500,
     save_total_limit=2,
-    logging_dir="C:/Users/psing100/Development/office-efficiency/model_twitter/logs"
+    logging_dir="C:/Users/psing100/Development/sentiment_analysis/model_twitter/logs"
 )
 
 
@@ -56,5 +56,5 @@ trainer = Trainer(
 trainer.train()
 
 
-model.save_pretrained("C:/Users/psing100/Development/office-efficiency/model_twitter/fine-tuned-twitter-roberta")
-tokenizer.save_pretrained("C:/Users/psing100/Development/office-efficiency/model_twitter/fine-tuned-twitter-roberta")
+model.save_pretrained("C:/Users/psing100/Development/sentiment_analysis/model_twitter/fine-tuned-twitter-roberta")
+tokenizer.save_pretrained("C:/Users/psing100/Development/sentiment_analysis/model_twitter/fine-tuned-twitter-roberta")
